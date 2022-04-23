@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Fullstack Javascript.
 
-:outbox_tray: 2022 Goals: Became Fullstack Javascript.
+:outbox_tray: 2022 Goals: Become Fullstack Javascript.
 
  
 
